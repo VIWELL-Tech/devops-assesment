@@ -93,4 +93,4 @@ The services can be started with a single command, require Java 8 and run by def
 **Deliverables**
 
 Share the code on Github/Bitbucket at least 1 day before your review so that we have enough time to review and test before the call.
-A running version of your solution during the technical interview. If you have problems or difficulties running your solution during the interview, please provide us with detailed instructions on how to run your solution.
+A running version (additional points if they are kustomize/helm charts) of your solution during the technical interview. If you have problems or difficulties running your solution during the interview, please provide us with detailed instructions on how to run your solution.
