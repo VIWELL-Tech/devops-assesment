@@ -1,4 +1,4 @@
-#Foodics Assesment 
+#Viwell Assesment 
 
 We’d like to invite you to do the # DevOps technical assignment
 This repo contains the assignment and should contain all the information you need
