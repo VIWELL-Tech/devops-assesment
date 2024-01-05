@@ -55,7 +55,7 @@ The above-mentioned services should run in isolated environments and both endpoi
 
 The Applicant can choose any technology stack, and should meet the following requirements:
 
-* The entire stack should be able to run locally on a developer's machine
+* The entire stack should be able to run locally on a developer's machine (minikube etc)
 
 * The country- and airport-service run isolated from each other
 
